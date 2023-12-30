@@ -27,4 +27,5 @@ I am:
 - Elixir
 - Neovim
 - Lua
+- To build an interpreter in Go
 - How to get rich and not die trying
