@@ -1,7 +1,7 @@
 ## Carl Handy
 
 I am:
-- Founder: [Kalpa Services](https://kalpa.dev) I.T and Software Development company.
+- Founder of [Kalpa Services](https://kalpa.dev): I.T and Software Development company.
 - [Project Periwinkle](https://www.projectperiwinkle.org/) Ambassador:  helping raise awareness and funds to fight stomach cancer.
 - Developer Tool Creator: [wpnix](https://github.com/kalpa-services/wpnix/)
 - Working at [MaxSold](https://www.maxsold.com/): series B re-commerce company rivaling Ebay.
