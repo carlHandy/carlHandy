@@ -19,7 +19,7 @@ I am:
 
 #### Blog/Vlog:
 
-- [Jack of all trades](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6925995309118468096) newsletter
+- [The Handy Perspective](https://handy.gy) blog
 - I sometimes post amateur drone shots on [The Youtube](https://www.youtube.com/channel/UC5kZxLCG-7o6k6Ve7DcqxKw)
 
 #### Learning:
