@@ -12,11 +12,6 @@ I am:
 - Email: `carl <at> handy.gy`
 - [LinkedIn](https://www.linkedin.com/in/carlhandy/)
 
-#### Projects:
-
-- I’m the author of (WIP) [UruCMS](https://urucms.org) a headless CMS built with Elixir and Nuxt.
-
-
 #### Blog/Vlog:
 
 - [The Handy Perspective](https://handy.gy) blog
@@ -24,8 +19,4 @@ I am:
 
 #### Learning:
 
-- Elixir
-- Neovim
-- Lua
-- To build an interpreter in Go
 - How to get rich and not die trying
