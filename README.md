@@ -5,6 +5,7 @@ I am:
 - Developer Tool Creator: [wpnix](https://github.com/kalpa-services/wpnix/)
 - Formerly at [MaxSold](https://www.maxsold.com/): series B re-commerce company rivaling Ebay.
 - Director at [TechServe](https://instagram.com/techserveorg): non-profit bridging the digital divide in Guyana.
+- Creator of the [MMG Payment Gateway WordPress Plugin](https://mmg-plugin.kalpa.dev)
 
 
 #### Contact Information:
@@ -18,4 +19,4 @@ I am:
 
 #### Learning:
 
-- How to get rich and not die trying
+- Golang
